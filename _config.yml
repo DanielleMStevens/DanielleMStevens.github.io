@@ -1,1 +1,14 @@
+title: Danielle M. Stevens
+author: Danielle M. Stevens
+about: Graduate Student
+
+twitter_username: Dani_M_Stevens
+github_username: DanielleMStevens
+
+url: "https://DanielleMStevens.github.io"
+
+allowsearch: true
+
+markdown: kramdown
+
 theme: jekyll-theme-minimal
