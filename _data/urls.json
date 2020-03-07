@@ -12,17 +12,17 @@
   },
   {
     "text": "Projects",
-    "url": "/projects",
+    "url": "/projects/",
     "icon": "fa-desktop"
   },
   {
-    "text": "Resume",
-    "url": "/#",
+    "text": "CV",
+    "url": "/CV/",
     "icon": "fa-graduation-cap",
   },
   {
     "text": "Github",
-    "url": "/#",
+    "url": "https://github.com/DanielleMStevens",
     "icon": "fa-github"
   },
   {
