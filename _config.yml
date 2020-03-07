@@ -1,14 +1,41 @@
 title: Danielle M. Stevens
+description: My Personal Blog
 author: Danielle M. Stevens
+logo: ./static/img/avatar.png
+github: https://github.com/DanielleMStevens/
 about: Graduate Student
 
 twitter_username: Dani_M_Stevens
 github_username: DanielleMStevens
 
+baseurl: "" #subpath of site
 url: "https://DanielleMStevens.github.io"
 
 allowsearch: true
 
-markdown: kramdown
+disqus_shortname: aboutashu
+google_analytics: UA-72862926-1
 
-theme: jekyll-theme-minimal
+enableTags: true
+tagarray: []
+
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems: [jekyll-paginate, jekyll-gist]
+
+
+# Where things are
+source              : .
+destination         : ./_site
+collections_dir     : .
+plugins_dir         : _plugins
+layouts_dir         : _layouts
+data_dir            : _data
+includes_dir        : _includes
+sass:
+  sass_dir: _sass
+collections:
+  posts:
+    output          : true
