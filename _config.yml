@@ -1,9 +1,12 @@
 title: Danielle M. Stevens
 description: My Personal Blog
 author: Danielle M. Stevens
-logo: ./static/img/avatar.png
+logo: /static/img/avatar.png
 github: https://github.com/DanielleMStevens/
-about: Graduate Student
+about: Ph.D. Student at UC Davis
+
+description:
+    Hi! I am an Genetics and Genomics PhD student at UC Davis. Welcome to my personal website!
 
 twitter_username: Dani_M_Stevens
 github_username: DanielleMStevens
@@ -23,6 +26,7 @@ paginate: 20
 per_page: 20
 paginate_path: "/page:num/"
 markdown: kramdown
+highlighter: false
 gems: [jekyll-paginate, jekyll-gist]
 
 

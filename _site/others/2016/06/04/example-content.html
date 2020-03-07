@@ -21,7 +21,7 @@
           <meta content="article" property="og:type">
         
         
-          <meta content="My Personal Blog" property="og:description">
+          <meta content="Hi! I am an Genetics and Genomics PhD student at UC Davis. Welcome to my personal website!" property="og:description">
         
         
           <meta content="http://localhost:4000/others/2016/06/04/example-content.html" property="og:url">
@@ -51,7 +51,7 @@
           <meta name="twitter:url" content="http://localhost:4000/others/2016/06/04/example-content.html">
         
         
-          <meta name="twitter:description" content="My Personal Blog">
+          <meta name="twitter:description" content="Hi! I am an Genetics and Genomics PhD student at UC Davis. Welcome to my personal website!">
         
         
 
@@ -90,11 +90,11 @@
         <div class="row">
           <div class="col-md-3 col-sm-4 col-xs-12">
             <div class="row-picture">
-              <img id="about" class="logo-img" src="./static/img/avatar.png" height="75px" width="75px">
+              <img id="about" class="logo-img" src="/static/img/avatar.png" height="75px" width="75px">
             </div>
             <div class="row-details">
               <h4 class="list-group-item-heading">Danielle M. Stevens</h4>
-              <p class="list-group-item-text">Graduate Student</p>
+              <p class="list-group-item-text">Ph.D. Student at UC Davis</p>
               <div class="social-icons">
 	
         <a class="icon" target="_blank" href="https://github.com/DanielleMStevens"><i class="fa fa-github"></i></a>
@@ -318,17 +318,17 @@ end tell
 
 <h3 id="code-snippet">Code snippet</h3>
 
-<figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span><span class="s">'__main__'</span><span class="p">:</span>
-    <span class="n">img_thread</span> <span class="o">=</span> <span class="n">threading</span><span class="o">.</span><span class="n">Thread</span><span class="p">(</span><span class="n">target</span><span class="o">=</span><span class="n">downloadWallpaper</span><span class="p">)</span>
-    <span class="n">img_thread</span><span class="o">.</span><span class="n">start</span><span class="p">()</span>
-    <span class="n">st</span> <span class="o">=</span> <span class="s">'</span><span class="se">\r</span><span class="s">Downloading Image'</span>
-    <span class="n">current</span> <span class="o">=</span> <span class="mi">1</span>
-    <span class="k">while</span> <span class="n">img_thread</span><span class="o">.</span><span class="n">is_alive</span><span class="p">():</span>
-        <span class="n">sys</span><span class="o">.</span><span class="n">stdout</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="n">st</span><span class="o">+</span><span class="s">'.'</span><span class="o">*</span><span class="p">((</span><span class="n">current</span><span class="p">)</span><span class="o">%</span><span class="mi">5</span><span class="p">))</span>
-        <span class="n">current</span><span class="o">=</span><span class="n">current</span><span class="o">+</span><span class="mi">1</span>
-        <span class="n">time</span><span class="o">.</span><span class="n">sleep</span><span class="p">(</span><span class="mf">0.3</span><span class="p">)</span>
-    <span class="n">img_thread</span><span class="o">.</span><span class="n">join</span><span class="p">()</span>
-    <span class="k">print</span><span class="p">(</span><span class="s">'</span><span class="se">\n</span><span class="s">Image of the day downloaded.'</span><span class="p">)</span></code></pre></figure>
+<figure class="highlight"><pre><code class="language-python" data-lang="python">if __name__ ==&#39;__main__&#39;:
+    img_thread = threading.Thread(target=downloadWallpaper)
+    img_thread.start()
+    st = &#39;\rDownloading Image&#39;
+    current = 1
+    while img_thread.is_alive():
+        sys.stdout.write(st+&#39;.&#39;*((current)%5))
+        current=current+1
+        time.sleep(0.3)
+    img_thread.join()
+    print(&#39;\nImage of the day downloaded.&#39;)</code></pre></figure>
 </div>
     <hr />
     <div class="share-page">
