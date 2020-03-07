@@ -1,15 +1,11 @@
 [
   {
-    "icon": "fa-facebook",
-    "link": ""
+    "icon": "fa-github",
+    "link": "https://github.com/DanielleMStevens"
   },
   {
     "icon": "fa-twitter",
-    "link": ""
-  },
-  {
-    "icon": "fa-linkedin",
-    "link": ""
+    "link": "https://twitter.com/Dani_M_Stevens"
   },
   {
     "icon": "fa-stack-exchange",
