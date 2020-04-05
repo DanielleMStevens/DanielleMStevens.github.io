@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Welcome to my personal website!"
-date:   2020-04-05 12:36:39
 categories: others
 ---
 
