@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src = "/images/DSC02677.jpg" align = "right" hspace="100" vspace="100" width = "300" height = "300" style="transform:rotate(90deg);" />
+<img src = "/images/DSC02677.jpg" align = "right" hspace="100" vspace="100" width = "300" height = "400"  />
 
 I was introduced to plant pathology working for Dr. Jeff Chang in the Botany and Plant Pathology Department at Oregon State. Admittedly, I was introduced to the field partly by accident and wasn't interested at first. I worked toward a degree in Biochemistry and Biophysics thinking I would work in the medical field. But after a year, I slowly fell in love with bacterial pathogens, plant pathology research, and now I can't think of working on anything else. 
 
