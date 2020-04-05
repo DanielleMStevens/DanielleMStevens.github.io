@@ -8,7 +8,7 @@ permalink: /about/
 I was introduced to plant pathology working for Dr. Jeff Chang in the Botany and Plant Pathology Department at Oregon State. Admittedly, the introduction to this field was partly by accident and not somthing I was interested in at first. I worked toward a degree in Biochemistry and Biophysics thinking I would work in the medical field. But after a year, I slowly fell in love with bacterial pathogens, plant pathology research, and now I can't think of working on anything else. 
 
 <!--- image of me --->
-<img src = "/images/DSC02677.jpg" height = "300" width = "200" hspace = "20" vspace = "20" align = "right">
+<img src = "/images/DSC02677.jpg" height = "300" width = "200" hspace = "50" vspace = "50" align = "right">
 
 During those four years, I was mentored by many incredible people from all over the univeristy and from the departments I both worked in (Botany and Plant Pathology) and took coursework from (Biochemistry and Biophysics). At the end of three years, I had to make a key decision: do I want to go to graduate school? My only exposure to this line of work was from the last couple of years.
 		
