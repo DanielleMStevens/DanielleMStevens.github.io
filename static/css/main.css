@@ -208,7 +208,7 @@ footer {
     display: none;
 }
 .search__results > li {
-    border-top: 1px solid #f0f0f0;
+    border-top: 1px solid #000000;
     padding: 10px 0;
 }
 .search__results > li > a {
