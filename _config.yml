@@ -11,8 +11,8 @@ description:
 twitter_username: Dani_M_Stevens
 github_username: DanielleMStevens
 
-baseurl: "/home/" #subpath of site
-url: "https://DanielleMStevens.github.io"
+baseurl: "" #subpath of site
+url: "https://DanielleMStevens.github.io/home/"
 
 allowsearch: true
 
