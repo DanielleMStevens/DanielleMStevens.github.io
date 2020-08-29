@@ -1,0 +1,36 @@
+.logo {
+    text-align:center;
+
+    img {
+    display: inline-block;
+    height: auto;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  a {
+    display: inline-block;
+    height: auto;
+    width: 40px;
+  }
+}
+.logo-mobile {
+  text-align:center;
+  width: 54px;
+  @include media-breakpoint-up(sm) {
+  }
+  img {
+    display: inline-block;
+    height: auto;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  a {
+    display: inline-block;
+    height: auto;
+    width: 40px;
+  }
+}
+
+
