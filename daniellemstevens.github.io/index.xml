@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Danielle M. Stevens</title>
+    <link>https://daniellemstevens.github.io/</link>
+    <description>Recent content on Danielle M. Stevens</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
+    
+	<atom:link href="https://daniellemstevens.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comparative Genomics of Clavibacter Bacteria</title>
+      <link>https://daniellemstevens.github.io/research/comparative-genomics-of-clavibacter-bacteria/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>https://daniellemstevens.github.io/research/comparative-genomics-of-clavibacter-bacteria/</guid>
+      <description>Clavibacter bacteria are host specific pathogens with many predicted virulence effectors. Clavibacter species cause disease on a narrow host range of plants, but their ability to colonize endophytically is broad.</description>
+    </item>
+    
+    <item>
+      <title>Plant Immune Perception of Gram-positive Bacteria</title>
+      <link>https://daniellemstevens.github.io/research/plant-immune-perception-of-gram-positive-bacteria/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>https://daniellemstevens.github.io/research/plant-immune-perception-of-gram-positive-bacteria/</guid>
+      <description>Plant innate immune systems perceive and elicit responses to limit pathogens. Surface-localized pattern recognition receptors (PRRs) can perceive molecular features such as MAMPs, damage-associated molecular patterns, and effectors from diverse pathogens.</description>
+    </item>
+    
+    <item>
+      <title>Plant Targets of Tomato Pathogen C. michiganensis Protease Effectors</title>
+      <link>https://daniellemstevens.github.io/research/plant-targets-of-tomato-pathogen-c.-michiganensis-protease-effectors/</link>
+      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      
+      <guid>https://daniellemstevens.github.io/research/plant-targets-of-tomato-pathogen-c.-michiganensis-protease-effectors/</guid>
+      <description>Under Construcion.</description>
+    </item>
+    
+    <item>
+      <title>Describing the Variability of PAMP-triggered immune response in Citrus</title>
+      <link>https://daniellemstevens.github.io/research/describing-the-variability-of-pamp-trigged-immune-reponse-in-citrus/</link>
+      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
+      
+      <guid>https://daniellemstevens.github.io/research/describing-the-variability-of-pamp-trigged-immune-reponse-in-citrus/</guid>
+      <description>Under construction.</description>
+    </item>
+    
+  </channel>
+</rss>

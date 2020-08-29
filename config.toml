@@ -1,4 +1,4 @@
-baseURL = "daniellemstevens.github.io"
+baseURL = "https://daniellemstevens.github.io/"
 languageCode = "en-us"
 title = "Danielle M. Stevens"
 themesDir = "themes"
@@ -6,6 +6,7 @@ theme = "hugo-whisper-theme"
 #author = "Danielle M. Stevens"
 #about = "Ph.D. Student at UC Davis"
 google_analytics = "UA-163915399-1"
+publishDir = "daniellemstevens.github.io"
 
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
