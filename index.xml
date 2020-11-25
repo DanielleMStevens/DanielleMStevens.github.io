@@ -6,18 +6,14 @@
     <description>Recent content on Danielle M. Stevens</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
-    
-	<atom:link href="https://daniellemstevens.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://daniellemstevens.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comparative Genomics of Clavibacter Bacteria</title>
       <link>https://daniellemstevens.github.io/research/comparative-genomics-of-clavibacter-bacteria/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>https://daniellemstevens.github.io/research/comparative-genomics-of-clavibacter-bacteria/</guid>
-      <description>Clavibacter bacteria are host specific pathogens with many predicted virulence effectors. Clavibacter species cause disease on a narrow host range of plants, but their ability to colonize endophytically is broad.</description>
+      <description>With the decreasing costs of sequencing genomes, comparative genomics is reaching a new era where hundreds to potentially thousadnds of microbes can be sequenced at once. This provides incredible power to formuate hypothesize about the functional contribution of bacterial loci to a biological process. This work uses these emerging technologies to develop a robust genomic dataset and enable hypothesis generation of functional contribution of bacterial loci to particular biological processes, such as effector drive host range.</description>
     </item>
     
     <item>
@@ -26,7 +22,7 @@
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>https://daniellemstevens.github.io/research/plant-immune-perception-of-gram-positive-bacteria/</guid>
-      <description>Plant innate immune systems perceive and elicit responses to limit pathogens. Surface-localized pattern recognition receptors (PRRs) can perceive molecular features such as MAMPs, damage-associated molecular patterns, and effectors from diverse pathogens.</description>
+      <description>While the plants arounds are always seemingly healthy, plants can get sick too. To combate this, they have developed innate immune systems to try to preceive when a potential pathogen attack is nearby and respond accordingly to limit disease development. This has been studied extensively in many micorbes except for Gram-positive actinobacterial pathogens. This work focuses to characterize the potential for immmune preception and resoponse to these pathogens.</description>
     </item>
     
     <item>
